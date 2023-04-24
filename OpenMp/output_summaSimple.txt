@@ -1,0 +1,3 @@
+Positive integer: 10 
+Sum = 55
+Work took 0.004204 seconds
