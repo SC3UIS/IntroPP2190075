@@ -1,0 +1,14 @@
+Loading compiler version 2021.4.0
+Loading tbb version 2021.4.0
+Loading compiler-rt version 2021.4.0
+Loading debugger version 10.2.4
+Loading dpl version 2021.5.0
+Loading oclfpga version 2021.4.0
+Loading init_opencl version 2021.4.0
+Loading mpi version 2021.4.0
+Loading icc version 2021.4.0
+Loading mkl version 2021.4.0
+Removing init_opencl version 2021.4.0
+Use `module list` to view any remaining dependent modules.
+Loading init_opencl version 2021.4.0
+nvcc warning : The 'compute_20', 'sm_20', and 'sm_21' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).

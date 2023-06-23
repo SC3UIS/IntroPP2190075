@@ -1,0 +1,9 @@
+Warning: Intel PAC device is not found.
+Please install the Intel PAC card to execute your program on an FPGA device.
+Warning: Intel PAC device is not found.
+Please install the Intel PAC card to execute your program on an FPGA device.
+Positive integer: 1000000
+Sum = 1784293664
+Sequential Time: 0.375612 seconds
+Parallel Time: 0.375612 seconds
+Acceleration: 1.000000
